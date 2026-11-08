@@ -9,9 +9,9 @@ El proyecto se desarrolla siguiendo el modelo en cascada. Su alcance contempla e
 
 ### Funciones contempladas del proyecto
 
-.Inicio y cierre de sesión.
-.Registro, consulta, búsqueda, edición y desactivación de productos.
-.Registro de entradas, salidas y ajustes de inventario.
-.Actualización de existencias junto con el registro del movimiento.
-.Consulta del historial de movimientos.
-.Aviso de productos cuyo stock está bajo el mínimo definido.
+-Inicio y cierre de sesión.
+-Registro, consulta, búsqueda, edición y desactivación de productos.
+-Registro de entradas, salidas y ajustes de inventario.
+-Actualización de existencias junto con el registro del movimiento.
+-Consulta del historial de movimientos.
+-Aviso de productos cuyo stock está bajo el mínimo definido.
