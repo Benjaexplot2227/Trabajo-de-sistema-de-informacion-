@@ -20,3 +20,15 @@ El proyecto se desarrolla siguiendo el modelo en cascada. Su alcance contempla e
 -Consulta del historial de movimientos.
 
 -Aviso de productos cuyo stock está bajo el mínimo definido.
+
+### Uso de herramientas de su desarrollo
+
+-PHP 8
+
+-MySQL o MariaDB
+
+-PDO para la conexión y las consultas a la base de datos
+
+-HTML, Bootstrap y JavaScript
+
+-Apache para ejecutar la aplicación localmente
