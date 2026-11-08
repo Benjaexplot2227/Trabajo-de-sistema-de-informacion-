@@ -32,3 +32,15 @@ El proyecto se desarrolla siguiendo el modelo en cascada. Su alcance contempla e
 -HTML, Bootstrap y JavaScript
 
 -Apache para ejecutar la aplicación localmente
+
+### Requisitos para ejecutar el proyecto
+
+-Un computador con Windows, macOS o Linux.
+
+-XAMPP u otro entorno que incluya Apache, PHP 8 y MySQL/MariaDB.
+
+-La extensión pdo_mysql habilitada en PHP.
+
+-Un navegador web actualizado.
+
+-Los archivos del proyecto y el script SQL, disponibles en el repositorio
