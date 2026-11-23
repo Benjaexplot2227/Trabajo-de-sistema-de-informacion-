@@ -9,7 +9,7 @@ Aplicación web académica para administrar productos y registrar movimientos de
 
 El caso de TecnoStock trata de una tienda de accesorios tecnológicos que controla su inventario en una planilla, lo que provoca errores en los códigos y las cantidades, y dificulta conocer el stock real. El proyecto propone una aplicación web local para administrar productos, registrar entradas, salidas y ajustes, conservar quién hizo cada movimiento y avisar cuando un producto queda bajo su stock mínimo.
 
-##Funcionalidades:
+## Funcionalidades:
 
 - Inicio y cierre de sesión.
 - Registro, búsqueda, edición y desactivación de productos.
@@ -22,3 +22,10 @@ El caso de TecnoStock trata de una tienda de accesorios tecnológicos que contro
 - XAMPP con Apache, PHP 8 y MariaDB/MySQL.
 - Un navegador web.
 - Git para trabajar con el historial.
+
+## Desarrollado por:
+
+- Estudiante: Benjamin Gonzalez
+- Asignatura: Sistemas de informacion
+- Institución: UTEM
+- Fecha de entrega: 23-11-2026
