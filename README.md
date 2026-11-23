@@ -11,11 +11,11 @@ El caso de TecnoStock trata de una tienda de accesorios tecnológicos que contro
 
 ##Funcionalidades:
 
--Inicio y cierre de sesión.
--Registro, búsqueda, edición y desactivación de productos.
--Registro de entradas, salidas y ajustes de stock.
--Historial de movimientos con fecha y usuario responsable.
--Aviso de productos cuyo stock está bajo el mínimo definido.
+- Inicio y cierre de sesión.
+- Registro, búsqueda, edición y desactivación de productos.
+- Registro de entradas, salidas y ajustes de stock.
+- Historial de movimientos con fecha y usuario responsable.
+- Aviso de productos cuyo stock está bajo el mínimo definido.
 
 ### Requisitos del sistema:
 
