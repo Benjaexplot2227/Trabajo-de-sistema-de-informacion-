@@ -1,5 +1,5 @@
 # Trabajo-de-sistema-de-informacion
-Caso_1_Sistema_de_Inventario_TecnoStock
+Caso 1 Sistema de Inventario TecnoStock
 
 ## TecnoStock
 
