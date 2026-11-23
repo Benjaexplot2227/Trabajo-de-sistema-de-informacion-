@@ -11,7 +11,7 @@ El caso de TecnoStock trata de una tienda de accesorios tecnológicos que contro
 
 ### Explicacion de solucion:
 
-Para resolver estos problemas, se creó TecnoStock; una aplicación web local cuyo objetivo principal es la integración del registro, la consulta y la gestión de productos. Te brinda la posibilidad de buscar y administrar el catálogo, registrar transacciones de entradas, salidas y ajustes de inventario asociadas con el usuario responsable de cada movimiento, además de actualizar los niveles de stock relacionados. También emite una alerta cuando un producto está por debajo del mínimo de reabastecimiento establecido. Es decir, la intención es minimizar los errores al escribir o ingresar cantidades y facilitar el control y el seguimiento del inventario.
+Para resolver estos problemas, se creó TecnoStock, una aplicación web local cuyo objetivo principal es la integración del registro, la consulta y la gestión de productos. Te brinda la posibilidad de buscar y administrar el catálogo, registrar transacciones de entradas, salidas y ajustes de inventario asociadas con el usuario responsable de cada movimiento, además de actualizar los niveles de stock relacionados. También emite una alerta cuando un producto está por debajo del mínimo de reabastecimiento establecido. Es decir, la intención es minimizar los errores al escribir o ingresar cantidades y facilitar el control y el seguimiento del inventario.
 
 
 ## Funcionalidades:
