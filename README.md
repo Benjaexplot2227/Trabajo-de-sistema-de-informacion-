@@ -29,15 +29,15 @@ Para resolver estos problemas, se creó un sitio web local cuyo objetivo princip
 - Git para trabajar con el historial.
 
 ## imagenes del proyecto:
-## inicio del sitio web
+## 
 <img width="1919" height="937" alt="registrar producto" src="https://github.com/user-attachments/assets/cb6931d1-4b0e-40dd-8e99-95419e218bdb" />
 ## Productos
 <img width="1919" height="947" alt="productos" src="https://github.com/user-attachments/assets/d03d3f2b-925b-4b27-aafa-86dde4793e5b" />
 ## Movimientos
 <img width="1919" height="945" alt="movimientos" src="https://github.com/user-attachments/assets/c5f55e4e-c5d9-4bf1-a2b4-bfafe60cb113" />
-
+## Registro
 <img width="1919" height="942" alt="inicio de paguina" src="https://github.com/user-attachments/assets/98e4a0ad-4729-4fcb-9128-2d48dc5e5391" />
-
+## inicio del sitio web
 <img width="1919" height="939" alt="inicio app" src="https://github.com/user-attachments/assets/c0995aa5-ef3c-4025-b5ed-a2aa67949a5c" />
 
 
