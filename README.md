@@ -5,9 +5,14 @@ Caso_1_Sistema_de_Inventario_TecnoStock
 
 Aplicación web académica para administrar productos y registrar movimientos de inventario. Usa PHP 8, PDO, MySQL/MariaDB, HTML, Bootstrap y JavaScript.
 
-### Explicacion de caso:
+### Descripcion del caso:
 
 El caso de TecnoStock trata de una tienda de accesorios tecnológicos que controla su inventario en una planilla, lo que provoca errores en los códigos y las cantidades, y dificulta conocer el stock real. El proyecto propone una aplicación web local para administrar productos, registrar entradas, salidas y ajustes, conservar quién hizo cada movimiento y avisar cuando un producto queda bajo su stock mínimo.
+
+### Explicacion de solucion:
+
+Para resolver estos problemas, se creó TecnoStock; una aplicación web local cuyo objetivo principal es la integración del registro, la consulta y la gestión de productos. Te brinda la posibilidad de buscar y administrar el catálogo, registrar transacciones de entradas, salidas y ajustes de inventario asociadas con el usuario responsable de cada movimiento, además de actualizar los niveles de stock relacionados. También emite una alerta cuando un producto está por debajo del mínimo de reabastecimiento establecido. Es decir, la intención es minimizar los errores al escribir o ingresar cantidades y facilitar el control y el seguimiento del inventario.
+
 
 ## Funcionalidades:
 
